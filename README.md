@@ -11,7 +11,15 @@ It:
 - answers using an OpenAI chat model constrained to retrieved context.
 
 ---
+## Output
 
+### Video Output
+https://github.com/user-attachments/assets/4e146c43-89f9-4101-9a71-da08621504cb
+
+### Screenshot Output
+![output](assets/output.png)
+
+---
 ## Features
 
 - Supports `.pdf` and `.txt` documents
